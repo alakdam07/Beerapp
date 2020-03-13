@@ -20,10 +20,4 @@ app.get("/punk", async (req, res, next) => {
     });
 });
 
-app.use(express.static("build"));
-
-app.get("*", (req, res) => {
-  res.sendFile(path.resolve(__dirname, "build", index.html));
-});
-
 app.listen(port, () => console.log(`Example app listening on port ${port}!`));

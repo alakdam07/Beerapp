@@ -1,4 +1,4 @@
-# Online blog.
+# Beer App.
 
 ## User can see diifrent types of beers and deatils of the beer.
 
@@ -15,7 +15,7 @@
 - [x] Setup server
   - [x] Install dependencies
   - [x] Setup Express App
-  - [x] Fetch API from P[Punk API](https://punkapi.com/)
+  - [x] Fetch API from [Punk API](https://punkapi.com/)
   - [x] Setup concurrently for the run frontend and backend togther
 - [x] Setup Frontend
   - [x] Create React-app

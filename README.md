@@ -1,4 +1,4 @@
-# Beer App.
+# Beer App :beers:.
 
 ## User can see diifrent types of beers and deatils of the beer.
 
